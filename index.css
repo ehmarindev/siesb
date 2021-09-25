@@ -1,0 +1,11 @@
+#text_date:hover {
+    cursor: pointer;
+}
+
+nav {
+    border: 1px solid red;
+}
+
+#div_display {
+    border: 1px solid purple;
+}
